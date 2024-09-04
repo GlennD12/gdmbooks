@@ -30,5 +30,5 @@ GDM Books is a web application for managing book collections. It allows users to
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/gdm-books.git
+git clone https://github.com/GlennD12/gdmbooks.git
 cd gdm-books
